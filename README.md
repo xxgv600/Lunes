@@ -1,6 +1,6 @@
 # Lunes Host 自动保活脚本
 
-# ⭐ **觉得有用？给个 Star 支持一下！**
+# ⭐ **觉得有用？给个 Star 支持一下！***
 
 > 🧪 注册地址：[https://betadash.lunes.host/](https://betadash.lunes.host/)
 
